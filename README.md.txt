@@ -20,3 +20,21 @@ The final images have 400x 400 pixels. Due to the object lens and distance to th
 Wavelet Transform tool were used to extract features from images.
 I built a simple Random forest model to classify fake notes and deployed it by creating web applications using flask,flasgger and streamlit.
 
+
+Flask app - 
+
+>![](images/flask app.png)
+
+flask app output-
+
+
+>![](images/flask app output.png)
+
+streamlit app-
+
+
+>![](images/streamlit app.png)
+
+
+
+
